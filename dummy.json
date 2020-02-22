@@ -1,0 +1,32 @@
+{
+  questions: [
+    { text: "Question 1 text", 
+      answers: [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    { text: "Question 2 text", 
+      answers: [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    { text: "Question 3 text", 
+      answers: [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    },
+    { text: "Question 4 text", 
+      answers: [
+        "answer 1",
+        "answer 2",
+        "answer 3"
+      ]
+    }  
+  ]
+}
